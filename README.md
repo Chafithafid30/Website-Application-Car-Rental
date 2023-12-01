@@ -1,5 +1,5 @@
-# Aplikasi_Rental_Mobil_Berbasis_Website
-Ini adalah sebuah Aplikasi Rental Mobil Berbasis Website dengan menggunakan metode PHP MVC (Model, View &amp; Controller)
+# Website Application Car Rental using CodeIgniter and RDBMS MySQL
+This is the website application for car rental using CodeIgniter and RDBMS MySQL. This project was built when a client who has a car rental business asked to make a website-based application, to make it easy to access without needing to download the application.
 
 
 Halaman Login:
